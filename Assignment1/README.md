@@ -30,4 +30,4 @@ The extrude command allowed me to cut out parts of the box as seen in the holes 
 
 The last command that I used was the chamfer command that removed the edges from one of the holes.
 
-![Chamf](hamf.png)
+![Chamfer](chamfer.png)
