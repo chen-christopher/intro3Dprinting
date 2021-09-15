@@ -18,7 +18,7 @@ After creating the slanted edge, I used the mirror command to reflect it over fo
 
 I used the fillet command to smooth out the edges.
 
-![Fillet](Fillett.png)
+![Fillet](fillet.png)
 
 4. Extrude
 
@@ -26,8 +26,8 @@ The extrude command allowed me to cut out parts of the box as seen in the holes 
 
 ![Extrude](extrude.png)
 
-5. Chamf
+5. Chamfer
 
-The last command that I used was the chamf command that removed the edges from one of the holes.
+The last command that I used was the chamfer command that removed the edges from one of the holes.
 
 ![Chamf](hamf.png)
