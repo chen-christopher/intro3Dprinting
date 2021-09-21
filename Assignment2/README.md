@@ -10,7 +10,7 @@ The initial idea that I had was a box to hold a pack of cards. I've had issues w
 
 2. Planning
 
-To plan this project, I had to obtain a few measurements of a playing card box. The dimensions that I obtained were around 8.8cm x 6.5cm x 1.7cm. To adjust for the material width (1mm), the dimensions I used for the first box were 9cm x 6.52cm x 1.72cm and the second box was 9cm x 6.54cm x 1.74cm. 
+To plan this project, I had to obtain a few measurements of a playing card box. The dimensions that I obtained were around 8.8cm x 6.5cm x 1.7cm. To adjust for the material width (1mm), the dimensions I used for the first box were 9cm x 6.52cm x 1.72cm and the second box was 9.1cm x 6.54cm x 1.74cm. 
 
 3. Modeling
 
