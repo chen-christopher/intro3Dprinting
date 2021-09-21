@@ -21,7 +21,7 @@ I first started by sketching out the rectangle for the first box. I then extrude
 I then drew the circle on the first box. To ensure that this would be responsive to change, I added a construction line with the constraint set to the midpoint. I drew the circle on that midpoint and then used it to cut the hole seen below. 
 
 ![boxCircle](boxCircle.png)
-![circleExtrusion](circleExtrusion.png)
+![circleExtrusion](circleExtrude.png)
 
 The finished screenshot of the first box is below. 
 
