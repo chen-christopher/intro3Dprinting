@@ -48,3 +48,14 @@ Looking back, there were a few changes I needed to make. Although I didn't know 
 ![sphere](spherePlane.png)
 ![sphereHandle1](sphereHandle1.png)
 ![sphereFinal](sphereFinal.png)
+
+6. Updates
+
+There were a few issues with the Ultimakers (unable to feed material or missing the x-axis) but I was able to successfully print my new model. With the support, the model did not collpase on itself. However, I'm struggling with removing the support.
+
+![cup1]cup1.jpeg)
+![cup2](cup2.jpeg)
+
+UPDATE: I was able to remove the support by applying pressure on the small crevice between the handles and the support. Once there support caved in, I had enough leverage to keep pushing and then eventually using a spoon to scrape it out. However, during this process, I thought I snapped off the handles so I should probably make the handles a bit thicker in the off-chance I use too much force.
+
+![finalCup](finalCup.jpeg)
