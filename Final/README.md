@@ -10,5 +10,8 @@ After I printed the first net clamp, I realized that I printed it with the suppo
 
 I have attached the sketches and layout drawings below. 
 
+
+![sketch](sketch.png)
+![sketch2](sketch2.jpeg)
 ![projectDrawing](projectDrawing.png)
 
