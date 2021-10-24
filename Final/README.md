@@ -15,3 +15,24 @@ I have attached the sketches and layout drawings below.
 ![sketch2](sketch2.jpeg)
 ![projectDrawing](projectDrawing.png)
 
+## Creating Process
+
+To create the model for my ping pong table clamp, I first used the sketch tool to draw it out. It follows a simple F shape. In the first iteration, the clamp was not particularly thick. 
+
+![clamp](clamp.png)
+
+The professor suggested I bulk it up, so I increased the thickness of both of the clamping parts along with the overall thickness of it. 
+
+![shape](shape.png)
+
+I then rounded out the corners with the fillet tool and then drilled holes in the top portion of the clamp for the fishing line to thread through. 
+
+![holes](holes.png)
+
+After I did that, I needed to create a hole for the bolt and the nut. I created a plane on the bottom portion of the clamp and then drew a circle. I used the extrude tool to create the hole and then I used the hexagonal tool to create a hexagon with the same centre of the circle. I also used the extrude tool to cut in the material, allowing the nut to sit in there snugly. 
+
+![nut](nut.png)
+
+The modeling process wasn't too intricate, but the result was much better than I had hoped for. 
+
+
